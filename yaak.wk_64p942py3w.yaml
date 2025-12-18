@@ -1,0 +1,21 @@
+type: workspace
+model: workspace
+id: wk_64p942py3w
+createdAt: 2025-12-18T17:14:48.685411470
+updatedAt: 2025-12-18T20:05:18.566591232
+authentication:
+  disabled: false
+  key: Authorization
+  value: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4YWYxY2Y3NC01N2ZiLTQ0YzQtOTk5Yi1iY2QxMTM3YzZmZDMiLCJpYXQiOjE3MjAxNjA2NjQuNjU5NTM2LCJzZXMiOiI3ZDgwODU3MC00NGY0LTRmNDUtYTY0Ni0zZjI5OTdkNzVjYmMifQ.Aro4YZMsqECFce8iDqJfA8LWaCJdLtPiURFbjFJcnEE
+authenticationType: apikey
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: fumBxjn6bf
+name: Yaak
+encryptionKeyChallenge: eUE0azNuQwEONbzpqUV5Fmyrx/SMr7K3kGLHvNIw+Pi6y7/SapJEIUiEnF2h2VB4y/RdAm1GpX0Ya8MiMdSdmZdYfLC0UiLqSL9Gs+2vSY+3HvWGnJlh5IIcOLEneu1Hels=
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

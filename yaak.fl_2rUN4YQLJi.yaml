@@ -1,0 +1,25 @@
+type: folder
+model: folder
+id: fl_2rUN4YQLJi
+createdAt: 2025-12-18T19:31:34.313340844
+updatedAt: 2025-12-18T19:50:33.309109973
+workspaceId: wk_64p942py3w
+folderId: null
+authentication:
+  disabled: false
+  key: Authorization
+  location: header
+  value: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5YjQ3NjE2YS1mMmMyLTQyNzQtYjE4ZS0yMTU3NTBjZTQ4ODYiLCJpYXQiOjE3MTU3NzExOTMuNjg4NzgyLCJzZXMiOiJhYTM1MTZhMC1lMzg0LTRjZWEtODdiNS02ODVhNDFhODg3Y2QifQ.S7xb3lWCly6ymfgo7myW2OBgJgMs7CvWRa0y3ONduyk
+authenticationType: apikey
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: GGaTNTQHSR
+- enabled: true
+  name: ''
+  value: ''
+  id: Z8MaKIDnvY
+name: zebra_api
+sortPriority: -1766086294312.0

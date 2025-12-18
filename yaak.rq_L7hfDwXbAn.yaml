@@ -1,0 +1,38 @@
+type: http_request
+model: http_request
+id: rq_L7hfDwXbAn
+createdAt: 2025-12-18T19:31:40.672119201
+updatedAt: 2025-12-18T19:54:52.639254524
+workspaceId: wk_64p942py3w
+folderId: fl_2rUN4YQLJi
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "ticket_id": "6c76a2e0-44da-4ea1-bd32-6a08e1d16794"
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: ''
+  value: ''
+  id: X57tNAHh7E
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: vcRU9Fjybb
+method: POST
+name: ''
+sortPriority: -1766086300670.0
+url: ${[ SERVER_HOST ]}/public_api/ticket/1c/cancel/
+urlParameters:
+- enabled: true
+  name: :ticket_id
+  value: 66d374d1-c284-4db1-a2c3-a55f04100b53
+  id: kWTVfiyvn6
+- enabled: true
+  name: ''
+  value: ''
+  id: pbxqbcuMgY
