@@ -1,0 +1,26 @@
+type: http_request
+model: http_request
+id: rq_kr4nHE3aJo
+createdAt: 2025-12-18T20:10:22.929629749
+updatedAt: 2025-12-18T20:11:39.408964522
+workspaceId: wk_64p942py3w
+folderId: fl_2rUN4YQLJi
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: ticket_list
+sortPriority: -1766086300670.0
+url: ${[ SERVER_HOST ]}/zebra_api/ticket/:ticket_id/
+urlParameters:
+- enabled: true
+  name: :ticket_id
+  value: 6c76a2e0-44da-4ea1-bd32-6a08e1d16794
+  id: 2dIn4a7wB7
+- enabled: true
+  name: ''
+  value: ''
+  id: jyT0ZFMgrr

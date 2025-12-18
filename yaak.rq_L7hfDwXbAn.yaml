@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_L7hfDwXbAn
 createdAt: 2025-12-18T19:31:40.672119201
-updatedAt: 2025-12-18T19:54:52.639254524
+updatedAt: 2025-12-18T20:12:53.487791693
 workspaceId: wk_64p942py3w
 folderId: fl_2rUN4YQLJi
 authentication: {}
@@ -24,7 +24,7 @@ headers:
   value: application/json
   id: vcRU9Fjybb
 method: POST
-name: ''
+name: Отмена заявки из 1С
 sortPriority: -1766086300670.0
 url: ${[ SERVER_HOST ]}/public_api/ticket/1c/cancel/
 urlParameters:
