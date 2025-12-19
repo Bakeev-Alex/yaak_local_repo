@@ -1,0 +1,18 @@
+type: http_request
+model: http_request
+id: rq_VBDPg5vXSh
+createdAt: 2025-12-19T08:39:26.359385760
+updatedAt: 2025-12-19T08:39:36.744328465
+workspaceId: wk_64p942py3w
+folderId: fl_2rUN4YQLJi
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: ''
+sortPriority: -1766086300670.0
+url: ${[ SERVER_HOST ]}/zebra_api/ticket
+urlParameters: []
